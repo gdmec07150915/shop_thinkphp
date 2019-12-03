@@ -1,0 +1,42 @@
+[ 2019-10-30T09:33:49+08:00 ] 127.0.0.1 /shop/index/head.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000894s ]
+ERR: 无法加载模块:Head
+
+[ 2019-10-30T09:33:49+08:00 ] 127.0.0.1 /shop/index/right.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000938s ]
+ERR: 无法加载模块:Right
+
+[ 2019-10-30T09:33:49+08:00 ] 127.0.0.1 /shop/index/left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000759s ]
+ERR: 无法加载模块:Left
+
+[ 2019-10-30T10:00:57+08:00 ] 127.0.0.1 /shop/index/_CONTROLLER_/head.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000643s ]
+ERR: 无法加载模块:_CONTROLLER_
+
+[ 2019-10-30T10:00:57+08:00 ] 127.0.0.1 /shop/index/_CONTROLLER_/left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000788s ]
+ERR: 无法加载模块:_CONTROLLER_
+
+[ 2019-10-30T10:00:58+08:00 ] 127.0.0.1 /shop/index/_CONTROLLER_/right.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000923s ]
+ERR: 无法加载模块:_CONTROLLER_
+
+[ 2019-10-30T10:07:12+08:00 ] 127.0.0.1 /shop/index/php%20echo%20/shop/index.php/Admin/Index%20/left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001113s ]
+ERR: 无法加载模块:Php echo
+

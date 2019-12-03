@@ -1,0 +1,20 @@
+[ 2019-10-30T18:24:34+08:00 ] 127.0.0.1 /shop/index/home/goods/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001448s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.011471s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.011713s ]
+
+[ 2019-10-30T18:24:53+08:00 ] 127.0.0.1 /shop/index/home/goods/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000931s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001438s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001785s ]
+ERR: 1146:Table 'shop.shop_goods' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `shop_goods`
+ERR: 1146:Table 'shop.shop_goods' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `shop_goods`
+
